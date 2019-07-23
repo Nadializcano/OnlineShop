@@ -1,5 +1,11 @@
 # Noah Larson Design
-This is a online shop, that features Noah Larson's Jewelry.
+This is an online shop, that features Noah Larson's Jewelry.
+
+![home](img/New Wireframe 1.png)
+![home](img/Shop.png)
+![home](img/About.png)
+![home](img/Contact us.png)
+![home](img/Product Details.png)
 
 ## Specifications
 
